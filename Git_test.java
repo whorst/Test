@@ -17,7 +17,7 @@ public class Git_test {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("He git People!");
+        System.out.println("git People!");
         System.out.println("Hello git!!!");
     }
     
