@@ -18,7 +18,7 @@ public class Git_test {
         // TODO code application logic here
         
         System.out.println("Hello People!");
-        System.out.println("Hello to Git!!!");
+        System.out.println("Hello to Git 2!!!");
     }
     
 }
